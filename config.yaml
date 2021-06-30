@@ -1,5 +1,5 @@
 baseURL: http://www.example.com
-title: johndoe
+title: Elías Gómez
 theme: hugo-coder
 languageCode: en
 defaultContentLanguage: en
@@ -9,7 +9,7 @@ pygmentsCodeFences: yes
 pygmentsCodeFencesGuessSyntax: yes
 enableEmoji: yes
 params:
-  author: John Doe
+  author: Elías Gómez
   avatarURL: images/avatar.jpg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
@@ -91,17 +91,17 @@ languages:
     languageName: ':uk:'
     menu:
       main:
-        - name: About
-          url: about/
+        - name: Elías
+          url: Elías/
           weight: 1
         - name: Blog
           url: posts/
           weight: 2
-        - name: Projects
-          url: projects/
+        - name: Proyectos
+          url: Proyectos/
           weight: 3
-        - name: Contact me
-          url: contact/
+        - name: Contacto
+          url: Contacto/
           weight: 5
   pt-br:
     languageName: ':brazil:'
