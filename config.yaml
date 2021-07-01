@@ -49,7 +49,6 @@ params:
   hideFooter: no
   info:
     - Antropólogo social
-    - Afín al estructuralismo genético de Pierre Bourdieu
     - Adepto a "R", y a los análisis estadísticos y espaciales.
   keywords: blog,investigador,personal
   maxSeeAlsoItems: 5
@@ -76,12 +75,6 @@ params:
       name: Medium
       url: https://medium.com/me/stories/public
       weight: 5
-    - icon: fa fa-rss
-      name: RSS
-      rel: alternate
-      type: application/rss+xml
-      url: https://myhugosite.com/index.xml
-      weight: 6
 taxonomies:
   author: authors
   category: categories
@@ -98,10 +91,10 @@ languages:
         - name: Blog
           url: posts/
           weight: 2
-        - name: Proyectos
+        - name: Projects
           url: projects/
           weight: 3
-        - name: Contacto
+        - name: Contact
           url: contact/
           weight: 5
   es-es:
@@ -114,10 +107,10 @@ languages:
         - name: Blog
           url: posts/
           weight: 2
-        - name: Projetos
+        - name: Proyectos
           url: projects/
           weight: 3
-        - name: Contato
+        - name: Contacto
           url: contact/
           weight: 5
     params:
