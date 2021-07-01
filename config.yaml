@@ -10,7 +10,7 @@ pygmentsCodeFencesGuessSyntax: yes
 enableEmoji: yes
 params:
   author: Elías Gómez
-  avatarURL: images/avatar.jpg
+  avatarURL: {{.Site.BaseURL}}images/avatar.jpg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
   csp:
