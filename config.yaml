@@ -48,9 +48,10 @@ params:
   hideCredits: no
   hideFooter: no
   info:
-    - Full Stack DevOps
-    - Magician
-  keywords: blog,developer,personal
+    - Antropólogo social
+    - Afín al estructuralismo genético de Pierre Bourdieu
+    - Adepto a "R", y a los análisis estadísticos y espaciales.
+  keywords: blog,investigador,personal
   maxSeeAlsoItems: 5
   rtl: no
   since: 2019
@@ -65,15 +66,15 @@ params:
       weight: 2
     - icon: fa fa-twitter
       name: Twitter
-      url: https://twitter.com/johndoe/
+      url: https://twitter.com/elias3177
       weight: 3
     - icon: fa fa-linkedin
       name: LinkedIn
-      url: https://www.linkedin.com/in/johndoe/
+      url: https://www.linkedin.com/in/elias-g%C3%B3mez-84265332/
       weight: 4
     - icon: fa fa-medium
       name: Medium
-      url: https://medium.com/@johndoe
+      url: https://medium.com/me/stories/public
       weight: 5
     - icon: fa fa-rss
       name: RSS
@@ -92,19 +93,19 @@ languages:
     menu:
       main:
         - name: Elías
-          url: Elías/
+          url: about/
           weight: 1
         - name: Blog
           url: posts/
           weight: 2
         - name: Proyectos
-          url: Proyectos/
+          url: projects/
           weight: 3
         - name: Contacto
-          url: Contacto/
+          url: contact/
           weight: 5
-  pt-br:
-    languageName: ':brazil:'
+  es-es:
+    languageName: ':argentina:'
     menu:
       main:
         - name: Sobre
@@ -120,9 +121,9 @@ languages:
           url: contact/
           weight: 5
     params:
-      author: João Ninguém
-      description: Sítio pessoal de João Ninguém
+      author: Elías Gómez
+      description: Sítio personal de Elías Gómez
       footerContent: Coloque algum texto aqui.
-      info: Full Stack DevOps e Mágico
-      keywords: blog,desenvolvedor,pessoal
-    title: João Ninguém
+      info: Antropólogo 
+      keywords: blog,investigador,analista
+    title: Elías Gómez
