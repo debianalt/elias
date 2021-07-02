@@ -49,7 +49,7 @@ params:
   hideFooter: no
   info:
     - Antropólogo social
-    - Adepto a "R", y al análisis de datos.
+    - Adepto al análisis de datos con "R"
   keywords: blog,investigador,personal
   maxSeeAlsoItems: 5
   rtl: no
@@ -97,7 +97,7 @@ languages:
     languageName: ':argentina:'
     menu:
       main:
-        - name: Sobre
+        - name: Elías
           url: about/
           weight: 1
         - name: Blog
