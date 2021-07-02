@@ -10,8 +10,8 @@ pygmentsCodeFencesGuessSyntax: yes
 enableEmoji: yes
 params:
   author: Elías Gómez
-  avatarURL: "{{.Site.BaseURL}}images/avatar.jpg"
-  colorScheme: auto
+  avatarURL: images/avatar.jpg 
+  colorScheme: auto 
   commit: https://github.com/debianalt/elias
   csp:
     childsrc: '''self'''
@@ -42,7 +42,7 @@ params:
   dateFormat: January 2, 2006
   description: Website de Elías
   enableTwemoji: no
-  footerContent: "La mente es una metáfora del mundo de los objetos".
+  footerContent: "La mente es una metáfora del mundo de los objetos"
   hideColorSchemeToggle: no
   hideCopyright: no
   hideCredits: no
@@ -111,8 +111,8 @@ languages:
           weight: 5
     params:
       author: Elías Gómez
-      description: Sítio personal de Elías Gómez
-      footerContent: "La mente es una metáfora del mundo de los objetos".
+      description: Sitio personal de Elías Gómez
+      footerContent: La mente es una metáfora del mundo de los objetos.
       info: Antropólogo 
       keywords: blog,investigador,analista
     title: Elías Gómez
